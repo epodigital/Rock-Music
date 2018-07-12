@@ -43,11 +43,11 @@ Paul Revere and The Raiders
 The Trashmen
 The Rivieras
 
-Psychedelia and progressivism
+Psychedelia and progressivism:
 
-Blues and folk fusions
+Blues and folk fusions:
 
-Blues rock
+Blues rock:
 
 John Mayall & The Bluesbreakers
 Eric Clapton 
@@ -62,7 +62,7 @@ Canned Heat
 Janis Joplin
 Johnny Winter
 
-Folk Rock
+Folk Rock:
 
 Joan Baez
 Bob Dylan
@@ -70,7 +70,7 @@ Simon and Garfunkel
 Mamas & The Papas
 Crosby Still and Nash
 
-Psychedelic rock
+Psychedelic rock:
 
 13th Floor Elevators
 Beatles 
@@ -80,7 +80,7 @@ Jefferson Airplane
 Pink Floyd
 The Doors
 
-Progressive Rock
+Progressive Rock:
 
 King Crimson
 Pink Floyd
